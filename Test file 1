@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>Sample Page</title></head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is a simple HTML example.</p>
+  <button>Click Me</button>
+  <a href="#">Learn More</a>
+</body>
+</html>
